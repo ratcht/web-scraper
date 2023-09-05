@@ -1,0 +1,675 @@
+1692106690700	geckodriver	INFO	Listening on 127.0.0.1:62115
+1692107035330	geckodriver	INFO	Listening on 127.0.0.1:63754
+1692107035842	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileIVBCMH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-15 17:43:56.014 firefox[48416:10107444] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692107036144	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692107036244	Marionette	INFO	Listening on port 63825
+Read port: 63825
+WebDriver BiDi listening on ws://127.0.0.1:63755
+1692107036367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63755/devtools/browser/fb07b511-eda3-4789-8934-75d77105f950
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692107104790	geckodriver	INFO	Listening on 127.0.0.1:64147
+1692107104793	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileLDlcnQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-15 17:45:04.960 firefox[48564:10109092] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692107105072	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692107105173	Marionette	INFO	Listening on port 64153
+Read port: 64153
+WebDriver BiDi listening on ws://127.0.0.1:64148
+1692107105282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64148/devtools/browser/2b1e3350-275e-414f-9540-eb05b2608a8f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692107127839	geckodriver	INFO	Listening on 127.0.0.1:64287
+1692107127843	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileGTIUKZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-15 17:45:28.001 firefox[48650:10110002] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692107128121	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692107128223	Marionette	INFO	Listening on port 64297
+Read port: 64297
+WebDriver BiDi listening on ws://127.0.0.1:64288
+1692107128332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64288/devtools/browser/fd3dcf9e-d09e-4510-b74f-4520ccb41697
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.11/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+1692107596723	geckodriver	INFO	Listening on 127.0.0.1:50045
+1692107597236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileosYJpi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-15 17:53:17.497 firefox-bin[49284:10118817] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692107597648	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692107597742	Marionette	INFO	Listening on port 50057
+Read port: 50057
+WebDriver BiDi listening on ws://127.0.0.1:50046
+1692107597795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50046/devtools/browser/e53235d3-2cec-4faf-b1b4-39aa41bca2c6
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:862:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:862:3\n"
+1692107651507	geckodriver	INFO	Listening on 127.0.0.1:50302
+1692107651530	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileq31EhV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-15 17:54:11.730 firefox-bin[49372:10120239] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692107651858	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692107651957	Marionette	INFO	Listening on port 50322
+WebDriver BiDi listening on ws://127.0.0.1:50303
+Read port: 50322
+1692107652119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50303/devtools/browser/9d4136d4-d803-4574-bd95-10e2b7442399
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.7/et_n.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.7/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.7/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/ae-fe/cosmos/0.0.183/pc/gep-sdk.js, line 6: Script terminated by timeout at:
+945/Sn/<@https://assets.alicdn.com/g/ae-fe/cosmos/0.0.183/pc/gep-sdk.js:6:114768
+n@https://assets.alicdn.com/g/ae-fe/cosmos/0.0.183/pc/gep-sdk.js:6:114264
+
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:862:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:862:3\n"
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=ar.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22ar.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-VED1YSGNC7&l=dataLayer&cx=c, line 494: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-VED1YSGNC7&l=dataLayer&cx=c:494:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-VED1YSGNC7&l=dataLayer&cx=c:494:87
+aa.xk/c/<@https://www.googletagmanager.com/gtag/js?id=G-VED1YSGNC7&l=dataLayer&cx=c:494:412
+
+1692107686262	Marionette	INFO	Stopped listening on port 64297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692107686502	Marionette	INFO	Stopped listening on port 50322
+1692107686504	Marionette	INFO	Stopped listening on port 50057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692107811551	geckodriver	INFO	Listening on 127.0.0.1:51094
+1692107811555	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilesg6YFB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-15 17:56:51.751 firefox-bin[49591:10123383] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692107811871	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692107811963	Marionette	INFO	Listening on port 51104
+Read port: 51104
+WebDriver BiDi listening on ws://127.0.0.1:51095
+1692107812019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51095/devtools/browser/706124cc-5085-478c-bd51-ab76e2eba687
+JavaScript warning: https://aeis.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.7/et_n.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.7/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.7/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22www.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22www.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22www.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.aliexpress.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22aliexpress.com%22,%22topUrl%22:%22www.aliexpress.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://aeis.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent10
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent10
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new Error("Error while calling method getResponseContent: No such actor for ID: server0.conn0.netEvent10", "resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js", 636))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:718:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:594:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript warning: https://assets.alicdn.com/g/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 7: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.66.5/et_n.js, line 6: WebGL context was lost.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:718:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:594:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1692161164886	geckodriver	INFO	Listening on 127.0.0.1:58637
+1692161165383	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofile34R5Je"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:46:05.579 firefox-bin[56438:10237325] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161165740	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161165858	Marionette	INFO	Listening on port 58649
+WebDriver BiDi listening on ws://127.0.0.1:58638
+Read port: 58649
+1692161166003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58638/devtools/browser/976f0ef9-3974-48fc-a8e4-10cbabd2b0cc
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692161303898	geckodriver	INFO	Listening on 127.0.0.1:59305
+1692161304422	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofiletBG4cT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:48:24.648 firefox-bin[56637:10240289] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161304818	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161304921	Marionette	INFO	Listening on port 59318
+Read port: 59318
+WebDriver BiDi listening on ws://127.0.0.1:59306
+1692161304977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59306/devtools/browser/566f8966-5b87-4a29-b329-5f172dbb4bb5
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692161509866	geckodriver	INFO	Listening on 127.0.0.1:60489
+1692161510390	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileZaM0HM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:51:50.643 firefox-bin[56944:10245719] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161510840	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161510962	Marionette	INFO	Listening on port 60501
+WebDriver BiDi listening on ws://127.0.0.1:60490
+Read port: 60501
+1692161511117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60490/devtools/browser/cb472f05-0d64-4a77-a49c-fdd34f577edb
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index.0448f0bc367e43f244ea.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/search?q=ring&ref=pagination&page=1, line 5360: Script terminated by timeout at:
+_/<@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5360:850
+@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5360:7316
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692161695312	geckodriver	INFO	Listening on 127.0.0.1:61366
+1692161695838	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofiled1NUEv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:54:56.160 firefox-bin[57196:10249797] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161696317	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161696438	Marionette	INFO	Listening on port 61378
+Read port: 61378
+WebDriver BiDi listening on ws://127.0.0.1:61367
+1692161696496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61367/devtools/browser/18917618-cfcb-478a-8568-c465665e906e
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/search?q=ring&ref=pagination&page=1, line 5311: Script terminated by timeout at:
+_/<@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5311:851
+@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5311:7317
+
+1692161806146	geckodriver	INFO	Listening on 127.0.0.1:62048
+1692161806654	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofile5djKCt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:56:46.881 firefox-bin[57386:10253628] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161807056	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161807174	Marionette	INFO	Listening on port 62061
+WebDriver BiDi listening on ws://127.0.0.1:62049
+Read port: 62061
+1692161807334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62049/devtools/browser/593c615f-8cfb-473c-a7c1-d80f179af7b1
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692161857975	geckodriver	INFO	Listening on 127.0.0.1:62353
+1692161858487	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileiiXWnp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:57:38.698 firefox-bin[57481:10256251] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161858843	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161858958	Marionette	INFO	Listening on port 62365
+Read port: 62365
+WebDriver BiDi listening on ws://127.0.0.1:62354
+1692161859065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62354/devtools/browser/3f87e68b-6356-4ea5-b6dd-3a8af69a1b56
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index.0448f0bc367e43f244ea.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/search?q=ring&ref=pagination&page=1, line 5425: Script terminated by timeout at:
+_/<@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5425:851
+@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5425:7317
+
+1692161890300	geckodriver	INFO	Listening on 127.0.0.1:62582
+1692161890815	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileWxlkIM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 08:58:11.068 firefox-bin[57559:10258679] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692161891208	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692161891321	Marionette	INFO	Listening on port 62595
+Read port: 62595
+WebDriver BiDi listening on ws://127.0.0.1:62583
+1692161891426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62583/devtools/browser/5d31043d-8832-481d-87f5-c35fea3b361f
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/search?q=ring&ref=pagination&page=1, line 5450: Script terminated by timeout at:
+e.sendEvents/<@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5450:1463
+e.sendEvents@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5450:1464
+window.__etsy_logging.eventpipe.logEventImmediately@https://www.etsy.com/search?q=ring&ref=pagination&page=1:5453:1312
+logEventImmediately@https://www.etsy.com/ac/evergreenVendor/js/en-US/search2_neu/desktop/base.3fc07eb5c8416f66fbb0.js:2:87404
+stopTimerAndLog@https://www.etsy.com/ac/evergreenVendor/js/en-US/search2_neu/desktop/base.3fc07eb5c8416f66fbb0.js:2:230230
+pageVisibilityChange@https://www.etsy.com/ac/evergreenVendor/js/en-US/search2_neu/desktop/base.3fc07eb5c8416f66fbb0.js:2:229359
+
+1692161901574	Marionette	INFO	Stopped listening on port 62595
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js, line 2: Script terminated by timeout at:
+3a3M/</add/m.handle@https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js:2:51054
+
+1692161908959	Marionette	INFO	Stopped listening on port 62365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692161910469	Marionette	INFO	Stopped listening on port 62061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692161912137	Marionette	INFO	Stopped listening on port 61378
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692162283015	geckodriver	INFO	Listening on 127.0.0.1:64291
+1692162283015	geckodriver	INFO	Listening on 127.0.0.1:64294
+1692162283015	geckodriver	INFO	Listening on 127.0.0.1:64292
+1692162283031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilexvgcUb"
+1692162283031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileikOVoz"
+1692162283031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileLvdYNJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 09:04:43.376 firefox-bin[58138:10264673] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:04:43.378 firefox-bin[58139:10264675] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:04:43.408 firefox-bin[58137:10264674] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692162283545	Marionette	INFO	Marionette enabled
+1692162283545	Marionette	INFO	Marionette enabled
+1692162283562	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692162283685	Marionette	INFO	Listening on port 64314
+1692162283697	Marionette	INFO	Listening on port 64316
+1692162283697	Marionette	INFO	Listening on port 64315
+Read port: 64314
+Read port: 64315
+WebDriver BiDi listening on ws://127.0.0.1:64295
+WebDriver BiDi listening on ws://127.0.0.1:64293
+WebDriver BiDi listening on ws://127.0.0.1:64296
+Read port: 64316
+1692162283796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692162283823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692162283859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64296/devtools/browser/af65aa1c-bcb4-432a-ac89-6a2de5101eab
+DevTools listening on ws://127.0.0.1:64293/devtools/browser/6feb223f-4e45-4ab9-a5df-fc1b46104a82
+DevTools listening on ws://127.0.0.1:64295/devtools/browser/c6eb91ab-c7e8-432e-b314-13e0aa227af2
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index.0448f0bc367e43f244ea.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692162454402	geckodriver	INFO	Listening on 127.0.0.1:65310
+1692162454402	geckodriver	INFO	Listening on 127.0.0.1:65309
+1692162454402	geckodriver	INFO	Listening on 127.0.0.1:65308
+1692162454913	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilekSaf4v"
+1692162454913	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileAjzOva"
+1692162454913	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilehe0dwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 09:07:35.142 firefox-bin[58538:10274290] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:07:35.142 firefox-bin[58539:10274291] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:07:35.156 firefox-bin[58537:10274292] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692162455387	Marionette	INFO	Marionette enabled
+1692162455387	Marionette	INFO	Marionette enabled
+1692162455387	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692162455511	Marionette	INFO	Listening on port 65336
+1692162455511	Marionette	INFO	Listening on port 65338
+1692162455514	Marionette	INFO	Listening on port 65337
+Read port: 65338
+Read port: 65337
+Read port: 65336
+WebDriver BiDi listening on ws://127.0.0.1:65312
+WebDriver BiDi listening on ws://127.0.0.1:65313
+WebDriver BiDi listening on ws://127.0.0.1:65311
+1692162455576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692162455576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692162455582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65311/devtools/browser/954ff8da-9f61-4a0e-aaf6-fedbb6d0281d
+DevTools listening on ws://127.0.0.1:65312/devtools/browser/f7bc7f0f-a07f-42f3-b3e5-6bafdccc376f
+DevTools listening on ws://127.0.0.1:65313/devtools/browser/13c76910-fbef-44c7-8941-9fb3331b3bec
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index.0448f0bc367e43f244ea.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index.0448f0bc367e43f244ea.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692162460359	Marionette	INFO	Stopped listening on port 65337
+1692162460395	Marionette	INFO	Stopped listening on port 65336
+1692162460470	Marionette	INFO	Stopped listening on port 65338
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js, line 2: Script terminated by timeout at:
+dispatch@https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js:2:52581
+3a3M/</add/m.handle@https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js:2:51132
+
+1692162827418	geckodriver	INFO	Listening on 127.0.0.1:50693
+1692162827418	geckodriver	INFO	Listening on 127.0.0.1:50694
+1692162827419	geckodriver	INFO	Listening on 127.0.0.1:50695
+1692162827428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilePbcE0m"
+1692162827428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileQb8tpV"
+1692162827428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofile8bQ0rk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 09:13:47.681 firefox-bin[59015:10281482] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:13:47.681 firefox-bin[59014:10281481] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:13:47.681 firefox-bin[59016:10281483] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692162827867	Marionette	INFO	Marionette enabled
+1692162827867	Marionette	INFO	Marionette enabled
+1692162827870	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692162827987	Marionette	INFO	Listening on port 50711
+1692162827988	Marionette	INFO	Listening on port 50712
+1692162827992	Marionette	INFO	Listening on port 50713
+WebDriver BiDi listening on ws://127.0.0.1:50698
+Read port: 50713
+WebDriver BiDi listening on ws://127.0.0.1:50697
+Read port: 50711
+WebDriver BiDi listening on ws://127.0.0.1:50696
+Read port: 50712
+1692162828070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692162828075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692162828182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50696/devtools/browser/710f1290-3382-4934-93a4-381e41e74117
+DevTools listening on ws://127.0.0.1:50698/devtools/browser/b2194e9f-8b6a-4ae9-b068-1337c5747369
+DevTools listening on ws://127.0.0.1:50697/devtools/browser/25ac3726-f052-4f91-add5-4cd58498bf72
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692162833248	Marionette	INFO	Stopped listening on port 50713
+1692162833290	Marionette	INFO	Stopped listening on port 50711
+1692162833603	Marionette	INFO	Stopped listening on port 50712
+1692163811385	geckodriver	INFO	Listening on 127.0.0.1:55046
+1692163811385	geckodriver	INFO	Listening on 127.0.0.1:55043
+1692163811385	geckodriver	INFO	Listening on 127.0.0.1:55044
+1692163811901	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofile8hTiZW"
+1692163811901	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileCRYXIX"
+1692163811901	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilehxW6jL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-08-16 09:30:12.221 firefox-bin[60503:10299021] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:30:12.221 firefox-bin[60502:10299022] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-08-16 09:30:12.221 firefox-bin[60504:10299020] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1692163812416	Marionette	INFO	Marionette enabled
+1692163812416	Marionette	INFO	Marionette enabled
+1692163812430	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692163812535	Marionette	INFO	Listening on port 55072
+1692163812537	Marionette	INFO	Listening on port 55071
+1692163812547	Marionette	INFO	Listening on port 55073
+WebDriver BiDi listening on ws://127.0.0.1:55048
+WebDriver BiDi listening on ws://127.0.0.1:55045
+WebDriver BiDi listening on ws://127.0.0.1:55047
+Read port: 55073
+Read port: 55072
+Read port: 55071
+1692163812727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692163812728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692163812735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55045/devtools/browser/59f553e8-1082-46ce-8ba1-09fcc71d0855
+DevTools listening on ws://127.0.0.1:55047/devtools/browser/0f11b632-7b83-403e-9e3e-e9f334d860eb
+DevTools listening on ws://127.0.0.1:55048/devtools/browser/9180439e-7fde-43ba-8c72-7047cf0ba2af
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index.0448f0bc367e43f244ea.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692163817166	Marionette	INFO	Stopped listening on port 55073
+1692163817482	Marionette	INFO	Stopped listening on port 55071
+1692163817962	Marionette	INFO	Stopped listening on port 55072
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js, line 2: Script terminated by timeout at:
+3a3M/</add/m.handle@https://www.etsy.com/ac/evergreenVendor/js/en-US/vendor_bundle.6d800a2a78ce383b6118.js:2:51054
+
+1692163956975	geckodriver	INFO	Listening on 127.0.0.1:55894
+1692163956975	geckodriver	INFO	Listening on 127.0.0.1:55896
+1692163956976	geckodriver	INFO	Listening on 127.0.0.1:55897
+1692163956982	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofilegy7KMQ"
+1692163956983	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileLn277T"
+1692163956983	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m9/cxt6v3bj4yj_d3cms5m007cm0000gn/T/rust_mozprofileYPNsnC"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692163957324	Marionette	INFO	Marionette enabled
+1692163957325	Marionette	INFO	Marionette enabled
+1692163957325	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692163957498	Marionette	INFO	Listening on port 55916
+1692163957499	Marionette	INFO	Listening on port 55918
+Read port: 55916
+1692163957501	Marionette	INFO	Listening on port 55917
+WebDriver BiDi listening on ws://127.0.0.1:55899
+WebDriver BiDi listening on ws://127.0.0.1:55895
+WebDriver BiDi listening on ws://127.0.0.1:55898
+1692163957541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 55918
+Read port: 55917
+1692163957642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692163957642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:55898/devtools/browser/9cabf17a-8fe7-476c-b5f1-411cf4f62ff1
+DevTools listening on ws://127.0.0.1:55899/devtools/browser/140808f6-81ca-455c-a6be-253d83ea1e12
+DevTools listening on ws://127.0.0.1:55895/devtools/browser/7442144d-d474-472a-b4d4-8bfe600fc569
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.etsy.com/ac/evergreenVendor/js/en-US/app-shell/globals/index-with-country-picker.342dde1c3a91c7086e99.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692163961874	Marionette	INFO	Stopped listening on port 55918
+1692163962019	Marionette	INFO	Stopped listening on port 55917
+1692163962281	Marionette	INFO	Stopped listening on port 55916
